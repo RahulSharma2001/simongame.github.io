@@ -1,0 +1,61 @@
+body{
+
+  text-align: center;
+  margin: 30px;
+  background-color: #1EF0D2;
+}
+h1{
+  margin-bottom: 0px;
+  font-family: 'Black Ops One', cursive;
+  display: inline-block;
+}
+h4{
+  margin-bottom: 50px;
+}
+.row{
+  display: inline-block;
+
+}
+
+.red{
+  background-color: red;
+  height: 200px;
+  width:200px;
+  border-radius: 50px;
+  margin: 1rem;
+  border: 5px solid black;
+}
+
+.green{
+  background-color: green;
+  height: 200px;
+  width:200px;
+    border-radius: 50px;
+    margin: 1rem;
+    border: 5px solid black;
+
+}
+.blue{
+  background-color: blue;
+  height: 200px;
+  width:200px;
+    border-radius: 50px;
+    margin: 1rem;
+    border: 5px solid black;
+}
+.yellow{
+  background-color: yellow;
+  height: 200px;
+  width:200px;
+  border-radius: 50px;
+  margin: 1rem;
+  border: 5px solid black;
+}
+.pressed {
+  box-shadow: 0 0 20px 15px white;
+  background-color: grey;
+}
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
